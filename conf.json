@@ -1,0 +1,11 @@
+{
+  "bot_user_name" : "<Bot username, wont screenshot this account posts>",
+  "bot_user_id" : "<Bot user ID, found in a twitter API Call answer>",
+  "bot_user_id_str" : "<Bot user ID string, found in a twitter API Call answer>",
+  "keyword" : "<Monitored hashtag>",
+  "consumer_key" : "<Consumer key provided by twitter>",
+  "consumer_secret" : "<Consumer secret provided by twitter>",
+  "access_token_key" : "<Access token provided by twitter>",
+  "access_secret" : "<Access secret provided by twitter>"
+}
+
